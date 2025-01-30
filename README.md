@@ -4,6 +4,10 @@ Social Media Post Generator is an AI-powered tool that helps you create engaging
 
 Built with Next.js and cutting-edge AI technology, this open-source template enables developers to create an AI-powered social media content generator. As the demand for a consistent and engaging social media presence grows, this tool provides everything you need to maintain an active and professional social media presence.
 
+
+## Live Demo
+[https://social-media-post-generator-black.vercel.app/](https://social-media-post-generator-black.vercel.app/)
+
 ## Features
 
 - Multi-platform support (Twitter/X, LinkedIn, Facebook, Instagram)
@@ -80,7 +84,7 @@ We welcome contributions! Here's how you can help make the Social Media Post Gen
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/Social-Media-Post-Generator/blob/main/LICENSE) file for details.
 
 ## Contact
 Please open an issue in the GitHub repository for any queries or support.
